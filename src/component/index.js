@@ -8,7 +8,7 @@ export class FormComponent extends React.Component{
     render(){
         return(
           <div class="form-style">
-            <h2>Login to your account</h2>
+            <h2>Login to your Accounts</h2>
             <form>
               <input type="text" name="field1" placeholder="Full Name" />
               <input type="email" name="field2" placeholder="Email" />
